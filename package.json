@@ -1,0 +1,24 @@
+{
+  "name": "gsearch",
+  "version": "1.0.0",
+  "description": "Search whatever is in system's clipboard using Google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:stef-k/gsearch.git"
+  },
+  "keywords": [
+    "google",
+    "search",
+    "clipboard"
+  ],
+  "author": "Stef Kariotidis",
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^1.2.3",
+    "opn": "^5.4.0"
+  }
+}
