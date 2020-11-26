@@ -34,3 +34,4 @@ This tool is made using ES6 and Node.js which in the end compiles as static bina
 * Build binary using: `nexe index.js -r node_modules/clipboardy/fallbacks/linux/xsel -o gsearch`
 
 **Note:** the build command will download - build and bundle Node.js which may take some time to finish.
+#
